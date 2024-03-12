@@ -1,0 +1,199 @@
+<section id=menu class="coffee_menu pt-120 pb-130 bg_cover" style="background-image:url(assets/images/xcoffee_menu_bg.jpg.pagespeed.ic.fDQxb2Tn2L.webp)">
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-lg-6>
+<div class="section_title text-center pb-30">
+<h4 class=title>Menu</h4>
+<span class=line>
+<span class=box></span>
+</span>
+</div> 
+</div>
+</div> 
+<div class=row>
+<div class=col-lg-6>
+<div class=coffee_menu_wrapper>
+<div class="single_coffee_menu mt-30 d-flex align-items-center wow fadeInUp" data-wow-duration=1.3s data-wow-delay=0.2s>
+<div class=coffee_menu_image>
+<img src="assets/images/xmenu-1.jpg.pagespeed.ic.AX8F7eomOd.webp" alt=coffee data-pagespeed-url-hash=2414450710 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="coffee_menu_content media-body">
+<h4 class=coffee_name>Americano<span class=price>$2.5</span></h4>
+<p>Lorem ipsum dolor sit amet, cosadipscing elitr, sed diam nonumy eirmod.</p>
+</div>
+</div> 
+<div class="single_coffee_menu mt-30 d-flex align-items-center wow fadeInUp" data-wow-duration=1.3s data-wow-delay=0.5s>
+<div class=coffee_menu_image>
+<img src="assets/images/xmenu-2.jpg.pagespeed.ic.K-c9fiG5gG.webp" alt=coffee data-pagespeed-url-hash=2708950631 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="coffee_menu_content media-body">
+<h4 class=coffee_name>Hot Chocolate<span class=price>$7</span></h4>
+<p>Lorem ipsum dolor sit amet, cosadipscing elitr, sed diam nonumy eirmod.</p>
+</div>
+</div> 
+<div class="single_coffee_menu mt-30 d-flex align-items-center wow fadeInUp" data-wow-duration=1.3s data-wow-delay=0.8s>
+<div class=coffee_menu_image>
+<img src="data:image/webp;base64,UklGRmoKAABXRUJQVlA4IF4KAACQMwCdASqDAIMAPm0ylEgkIqIhIzQNWIANiWc7fOcA1pTM7Eghfj2VvBk3EnP6+exfSlaj8PfMV8V9u/Xr0H2n/ZyPb6A9Aj8e/on+c4YO0Pfm/4/qZzhvt9iQNT8uv1l6OJxb3xPnGGlrUF+Tow5Me0Yrc7O0XMZ8jvUB4q9oc/0jQO0h2KvHrg7w0jjmWvxV/s9qI1UHstt5hFhpwi/nQ8VBYKMqbrVxaJd/Voh7RiKgUd/XS7YUGWexOG4ORbm7tZwfFVwmFpHNyB587sGBm1i+lTRmJEiPdwOLhGGxySiClqASWykkzMPL3H62QWGgx6h8zAk1tfW18CpzjwTr6sAEqLy1lK+aIIW0sQpaKI0ZwIv+9i6t2uPwWzZzygXnnzPzK5D4lrehMHTN8Lb55wddAc73yDWz/9RJnpZ1KJbMF7lbseLoBGll5YiQHY918M7UGTPi2P1D53crndm6aULOmoEa0BHnkctqPPmElhZnb2TJ7AdXYfNrlZYs+YfVirzG+Sj/QF6dsX2iqUg8EHKgTf+taNyZXgjUlaVaEE/WB9xAAP77/F27qbc6Bl+5+/pb+HzkLMyVMGuS/CCFFIAALYzSupFRWgTJbgk/KP6cAAyUR+yLLBrjwQwA+5RPZo8cxfdxBOctS1yc5UySP+gNzmalwJB5xYp+HKjLqKnR2pBnczafl7iVP7p4W0+75pfLkoicJQFrFkEzdwhe4H2QXrNzYWaU7ydaZw+jb7YrWAfWcWV4IIxF99FbzFflX9EsHAORnAbkn3XvzGtJ6ruu9RWQNsrWerByMg+el8n8wkZ9QbO7ESimsb0UXjZ+KUIU+fJJ0MIVFrTuRUJeUY8j83ukOcE7+BHtu3P0K3Y9ymvObEFHoR7v+Hi9OGj3SbPK6w9TihHhbL4iso35CKkklBnBci+s2lq9yTWDy0iYD2cjkxBNm86sJUk7nmvPDyjbT6U1czQx8KEpb4YdZd4d+Fua3xW5yh+am1nyLLnwb51bRN1RGL8lnbRgFwf7MtGLWlCbhwIhigIIhjOXfQ/A7UMnGn6NW0tOGk+l9o8omTFf1KsryO0JGYNbHKNtYoaifsSUM+9lwf4WnbcBvNxO14MUZ9A5Zmryml26/sHiKAl6wXihRRlF9NoiXyYQCvaOsD5xrGOeqBKz1KL7RiP840bi/HeTw21jF7mm/uDDA53XffXpIf8wCP0AJS8PyYaeRSAJSB5We7n0bS+QjypgTYoadBrd2tseDM+bDStSbaDCV54BWCJBgHvJa89lDpZok0GLQxyjRvnKZcDNb7z6XcZp1ew2i0PluC2R9qGV8dJxluZnzvLA1cr5JL/ZCQPgh/ZYuKmESAzrkOQKsdWZ43m0cuMfeVbfQyTRKJRxEtQH6ntfZZ3xszvQBpGDr4GGBnWCXze2sL/chdE3/K/HmODl/JSz98tIVr8+g9CqHJGvL3kppaW2rnpFurkvW1JK41vi1IxpP60bCK2skpqdQGjUA0MLo7kU5XRXbm5htOfK+5VbB0gMP5/RBElvb/cG5jtZyzwRoVtXWSd8dYYmQ9BfPmaAKzpk2aQDaCCb/Yf4aOVNqfXT4kVPbdaQWzLBo9VvS/P0A4M91wb5Obv8kQI6PGhmhvfAX9Y+GIC0MD1dLdtmMWpA9KXzv8alDBvWDchqJ5RqK0t5HxtXTv6TJJfVawXUQ1qnJz2wB/O3Prhqeyd4CE2B9Eh0W4cPPlCL7epM8xTw/Q+ko5fhOiJVDxc6PkK3xTZk+mig8pnGYy2SgJLjwhBHDL65McC/ekv29bLMbN2unsr1CjAV4E1BPVev+xmJtmoCvSIKd9p8D3PH/iSTG4mDT5rEPDxf/zKnJnkewg6WncCNZxkBknnqLTzg9+RzWbk7B/jJV+tpUCOfalb3drimH94Jx5PoAls90T22hNA+dcf+owuxXOmE3qT72kBUzcs0NKks2GEo2R5VBfzb8pf6HGNqbDX/rxQIxt69101ZYuj7skGlEprT6aHm5sEvp4t1TkQ5FwJypoK1gqBdTgq+nqx9REB6G70gM4WWuFer2xV9/ycv6yh//x7rBFWVKuvDlrPEqXrn10peIoQMQ61zPqWDnt5nQveWZ9GF0IeJhQQgkH7BuPZO+xs/+cuTohbjv4tZ33MIzCy9Njd7iWuAjw39tdJ1UEZjAaHDyhTilvaYycnAGXemyj4tUxBleZBTlcJdylq0dn35I5aZiSMGiWVhwRGqC5kFa620ybkhOPwU+To40JY/AKcfvbfmVzzuiCQp0PGSa5kkXp1Bb11IoLYj6gojtqS2DN40YFehU1yUhyzZl/3Vz9P5Cm4UZUvIGWmjcikN5WLxY/4MSpuVxqBY9Xgb4N5+wYNRreEasQnJv2tA04kIav+YayuYF44cXJEc0nU+3LzC+nJbSatsvbAHOgog7i1GUAHzA1ziDGRDKSeVrlpbZgtAhltWUo7ZI+/UeSIMjCv11LhnlYYrfXOAVV6J90I4KoAB1y3wz8CjgzCcMSGm89lPOXsv6CHKpbvVZP1mOPPtjqHZsBWukv04++NziePuBcX3xASXM3sB413OFCN2W4r2XYgUi/jWlqCsKtP1j2TdBWsBdrHO5DOnZXpOmtXQAHRzCmStx99fao1xo5FZV/zUCh8rzed08EzCGINiDJu89c+pFh9RdDefxsyAVPmsGK/DxcyU8KGctZjRcGwqWRsZKvVkpW3kWSz/zr9INsBhzQ1BR1M2KKpC6XOWM+B7M0wBGf77g8IYvX2KMEGVfWcqTZMkJHSETsQzEoLVcktFccE7+9C5mhac/mRL3omCocgsDA8Jr8eNtkcbEARJmIw8DOV4/BrLesHu7veeO5m89Ypvk5dbUw3yxs4ptHYX4ZPj/KTcPrslSl5MfEUpIpLQlQnjUtU/FUNVXxWPYKC+fcz7AuFyoDQE7XIebWDFKPppfZUwCluhv101/KH1p5CCwBLWxAL+yjd0t9JJxqMq4vCmwSs7dvkSA61a8HBQJcUn42GhRiD92VEzKlyhLF1VwqjctAod1Yx3fWGkjBiLAUkadaEm3wzkJkZCSVPcRi2dhihMc6LAz17niZKauwlgi+orYFSwo4ZlNZboleUUMn7V94C3+8NP/cblDxPcwxPbv0I3Stak6v5IprhqrULP4gAcJjLV8Jqttnx15JhaikDU+kXQgmPZZBjboJ0wAc5t4AIgwENfsXsaOisn9SgRg65eJLFyO/sFWQylYaDdwFJjxJeO/yZQzimdjg8S8grBEdkf5W/ngKA5KQoGRtCBju4sfjZWZzmIxYcasHSYs6MqZpBjwST2Hb0LzDbPULik/nu7LS6KGhrT8K3llpNBrQbGZo2dAPU/fYoJG32j0z+WovHbbRgTWhzGmeVkR7ICq8qVU4I3VlY14LOXlGqTgNi2WTL6BT/l161IsAFKOVbIQmJ7lguizjpMV6i+9TEGFfjxAbOQWNc2y5BVn2dAp7ZXbsxOqTIPNSvhpvRdpkh5ZJWbRsW4OGagXCMlej7VDU4UwgIAAA==" alt=coffee data-pagespeed-url-hash=3003450552 onload="pagespeed.CriticalImages.checkImageForCriticality(this);" id=pagespeed_img_xt4uuMVurF4>
+</div>
+<div class="coffee_menu_content media-body">
+<h4 class=coffee_name>Double Americano<span class=price>$6</span></h4>
+<p>Lorem ipsum dolor sit amet, cosadipscing elitr, sed diam nonumy eirmod.</p>
+</div>
+</div> 
+</div> 
+</div>
+<div class=col-lg-6>
+<div class=coffee_menu_wrapper>
+<div class="single_coffee_menu mt-30 d-flex align-items-center wow fadeInUp" data-wow-duration=1.3s data-wow-delay=0.2s>
+<div class=coffee_menu_image>
+<img src="assets/images/xmenu-4.jpg.pagespeed.ic.7TPIFmTLIQ.webp" alt=coffee data-pagespeed-url-hash=3297950473 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="coffee_menu_content media-body">
+<h4 class=coffee_name>Latte<span class=price>$6</span></h4>
+<p>Lorem ipsum dolor sit amet, cosadipscing elitr, sed diam nonumy eirmod.</p>
+</div>
+</div> 
+<div class="single_coffee_menu mt-30 d-flex align-items-center wow fadeInUp" data-wow-duration=1.3s data-wow-delay=0.5s>
+<div class=coffee_menu_image>
+<img src="assets/images/xmenu-5.jpg.pagespeed.ic.voAx270e5m.webp" alt=coffee data-pagespeed-url-hash=3592450394 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="coffee_menu_content media-body">
+<h4 class=coffee_name>Long Black<span class=price>$4</span></h4>
+<p>Lorem ipsum dolor sit amet, cosadipscing elitr, sed diam nonumy eirmod.</p>
+</div>
+</div> 
+<div class="single_coffee_menu mt-30 d-flex align-items-center wow fadeInUp" data-wow-duration=1.3s data-wow-delay=0.8s>
+<div class=coffee_menu_image>
+<img src="assets/images/xmenu-6.jpg.pagespeed.ic.R84XglgcIn.webp" alt=coffee data-pagespeed-url-hash=3886950315 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="coffee_menu_content media-body">
+<h4 class=coffee_name>Cappuccino<span class=price>$5</span></h4>
+<p>Lorem ipsum dolor sit amet, cosadipscing elitr, sed diam nonumy eirmod.</p>
+</div>
+</div> 
+</div> 
+</div>
+</div> 
+</div> 
+</section>
+
+
+
+
+
+
+
+
+
+<section id=gallery class="gallery_area pt-120 pb-130">
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-lg-6>
+<div class="section_title text-center pb-30">
+<h4 class=title>Coffee Gallery</h4>
+<span class=line>
+<span class=box></span>
+</span>
+</div> 
+</div>
+</div> 
+</div> 
+<div class=container>
+<div class="row gallery_active">
+<div class="col-md-6 col-sm-12">
+<div class="single_gallery mt-30">
+<div class=gallery_image>
+<img src="assets/images/xgallery-1.jpg.pagespeed.ic.O8katqig56.webp" alt=gallery data-pagespeed-url-hash=3454735393 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class=gallery_content>
+<h5 class=gallery_title>Coffee 1</h5>
+<p>Lorem ipsum dolor sit amet, consets adipscing elitr, sed diam nonumy eirmod tempo invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero.</p>
+</div>
+</div> 
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="single_gallery mt-30">
+<div class=gallery_image>
+<img src="assets/images/xgallery-2.jpg.pagespeed.ic.rk3AuCU3bI.webp" alt=gallery data-pagespeed-url-hash=3749235314 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class=gallery_content>
+<h5 class=gallery_title>Coffee 2</h5>
+<p>Lorem ipsum dolor sit amet, consets adipscing elitr, sed diam nonumy eirmod tempo invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero.</p>
+</div>
+</div> 
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="single_gallery mt-30">
+<div class=gallery_image>
+<img src="assets/images/xgallery-3.jpg.pagespeed.ic.aVEDob4NKS.webp" alt=gallery data-pagespeed-url-hash=4043735235 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class=gallery_content>
+<h5 class=gallery_title>Coffee 3</h5>
+<p>Lorem ipsum dolor sit amet, consets adipscing elitr, sed diam nonumy eirmod tempo invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero.</p>
+</div>
+</div> 
+</div>
+<div class="col-md-6 col-sm-12">
+<div class="single_gallery mt-30">
+<div class=gallery_image>
+<img src="assets/images/xgallery-4.jpg.pagespeed.ic.vDiZdo86wf.webp" alt=gallery data-pagespeed-url-hash=43267860 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class=gallery_content>
+<h5 class=gallery_title>Coffee 4</h5>
+<p>Lorem ipsum dolor sit amet, consets adipscing elitr, sed diam nonumy eirmod tempo invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero.</p>
+</div>
+</div> 
+</div>
+</div> 
+</div> 
+</section>
+
+
+
+
+
+
+
+
+
+<section id=upcoming class="upcoming_area pt-120">
+<div class=container>
+<div class="row justify-content-center">
+<div class=col-lg-6>
+<div class="section_title text-center pb-30">
+<h4 class=title>Upcoming</h4>
+<span class=line>
+<span class=box></span>
+</span>
+</div> 
+</div>
+</div> 
+<div class=row>
+<div class=col-lg-6>
+<div class="single_upcoming mt-30 d-sm-flex align-items-center wow fadeIn" data-wow-duration=1.3s data-wow-delay=0.3s>
+<div class=upcoming_image>
+<img src="assets/images/xupcoming-1.jpg.pagespeed.ic.tySNXQTKmj.webp" alt=upcoming data-pagespeed-url-hash=2911587571 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="upcoming_content media-body">
+<h4 class=upcoming_title><a href="#">Lorem ipsum dolor sit amdi scing elitr diam nonumy</a></h4>
+<p>Lorem ipsum dolor sit amdi scing elitr, sed diam nonumy eirmo tem invidunt ut labore etdolo magna aliquyam erat.</p>
+</div>
+</div> 
+</div>
+<div class=col-lg-6>
+<div class="single_upcoming mt-30 d-sm-flex align-items-center wow fadeIn" data-wow-duration=1.3s data-wow-delay=0.6s>
+<div class=upcoming_image>
+<img src="assets/images/xupcoming-2.jpg.pagespeed.ic.suLbM1Q3hO.webp" alt=upcoming data-pagespeed-url-hash=3206087492 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+</div>
+<div class="upcoming_content media-body">
+<h4 class=upcoming_title><a href="#">Lorem ipsum dolor sit amdi scing elitr diam nonumy</a></h4>
+<p>Lorem ipsum dolor sit amdi scing elitr, sed diam nonumy eirmo tem invidunt ut labore etdolo magna aliquyam erat.</p>
+</div>
+</div> 
+</div>
+</div> 
+</div> 
+</section>
+
+
+Apps Coffee 

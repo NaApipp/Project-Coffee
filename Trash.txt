@@ -1,0 +1,45 @@
+<!--====== -8.1 BAGIAN UPCOMING/UPDDATE START ======-->
+
+     <section id="upcoming" class="upcoming_area pt-120">
+        <div class=container>
+            <div class="row justify-content-center">
+                <div class=col-lg-6>
+                    <div class="section_title text-center pb-30">
+                        <h4 class=title>Upcoming</h4>
+                        <span class=line>
+                            <span class=box></span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class=row>
+                <div class=col-lg-6>
+                    <div class="single_upcoming mt-30 d-sm-flex align-items-center wow fadeIn" data-wow-duration=1.3s data-wow-delay=0.3s>
+                        <div class=upcoming_image>
+                            <img src="assets/images/xupcoming-1.jpg.pagespeed.ic.tySNXQTKmj.webp" alt=upcoming data-pagespeed-url-hash=2911587571 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                        </div>
+                        <div class="upcoming_content media-body">
+                            <h4 class=upcoming_title><a href="#" target="_blank">Cooming Soon</a></h4>
+                            <p>Cooming Soon.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class=col-lg-6>
+                    <div class="single_upcoming mt-30 d-sm-flex align-items-center wow fadeIn" data-wow-duration=1.3s data-wow-delay=0.6s>
+                        <div class=upcoming_image>
+                            <img src="assets/images/xupcoming-2.jpg.pagespeed.ic.suLbM1Q3hO.webp" alt=upcoming data-pagespeed-url-hash=3206087492 onload="pagespeed.CriticalImages.checkImageForCriticality(this);">
+                        </div>
+                        <div class="upcoming_content media-body">
+                            <h4 class=upcoming_title><a href="#" target="_blank">Cooming Soon</a></h4>
+                            <p>Cooming Soon.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--====== BAGIAN UPCOMING/UPTADE ENDS ======-->
+
+
+    
